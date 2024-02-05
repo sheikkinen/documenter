@@ -1,2 +1,4 @@
 node_modules/
+working/
 env.sh
+job.sh
